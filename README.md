@@ -1,0 +1,1 @@
+# translator-godot-test
